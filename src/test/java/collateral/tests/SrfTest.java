@@ -40,7 +40,7 @@ public class SrfTest {
 		l=new SrfPage(driver);
 	}
 	
-	//@Test(priority=1)
+	//@Test(priority=1) HEllo ajay i can make changes
 	public void closeButtonTest()
 	{
 		l.validateCloseButton();
